@@ -37,11 +37,12 @@ The end goal of this exercise is
 
 ## Approach
 
-- Since we have no experience to speak of at the start of this project, we will just play around in the [sandbox] first, before we try to make an actual first version of the game.
+- Since we have no experience with golang to speak of at the start of this project, we will just play around in the [sandbox] first, before we try to make an actual first version of the game.
 
 
 ## Reference Material
 
+- [Understanding Golang Packages](https://thenewstack.io/understanding-golang-packages/)
 - [Event Listener/Dispatcher Example](http://www.inanzzz.com/index.php/post/2qdl/event-listener-and-dispatcher-example-with-golang)
 - [Four Steps to deamonize your application](https://ieftimov.com/post/four-steps-daemonize-your-golang-programs/)
--
+- 
