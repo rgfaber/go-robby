@@ -5,11 +5,18 @@ Robby the Robot in Goland
 
 - [go-robby](#go-robby)
   - [Table of Contents](#table-of-contents)
+  - [Artifacts](#artifacts)
   - [Motivation](#motivation)
   - [Introduction](#introduction)
   - [End Goal](#end-goal)
   - [Approach](#approach)
-  - [Interesting Reference Material](#interesting-reference-material)
+  - [Reference Material](#reference-material)
+
+
+## Artifacts
+
+- [Project Whiteboard](https://miro.com/app/board/o9J_ltf3SKQ=/)
+- [Source Repository](https://github.com/rgfaber/go-robby) 
 
 ## Motivation
 - As **a software engineer**
@@ -33,7 +40,7 @@ The end goal of this exercise is
 - Since we have no experience to speak of at the start of this project, we will just play around in the [sandbox] first, before we try to make an actual first version.
 
 
-## Interesting Reference Material
+## Reference Material
 
 - [Event Listener/Dispatcher Example](http://www.inanzzz.com/index.php/post/2qdl/event-listener-and-dispatcher-example-with-golang)
 - [Four Steps to deamonize your application](https://ieftimov.com/post/four-steps-daemonize-your-golang-programs/)
