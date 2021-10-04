@@ -30,14 +30,14 @@ Do you remember "Robby the Robot"? "Go Robby" is a modern take on this classic e
 ## End Goal
 
 The end goal of this exercise is 
-- (a) to **learn golang** 
-- (b) to **gain experience with architecture** in the context of a golang implementation
-- (c) implement an **event-driven and -sourced application in golang**
-- (d) maybe end up with a fun game
+- to **learn golang** 
+- to **gain experience with architecture** in the context of a golang implementation
+- implement an **event-driven and -sourced application in golang**
+- maybe end up with **a fun game**
 
 ## Approach
 
-- Since we have no experience to speak of at the start of this project, we will just play around in the [sandbox] first, before we try to make an actual first version.
+- Since we have no experience to speak of at the start of this project, we will just play around in the [sandbox] first, before we try to make an actual first version of the game.
 
 
 ## Reference Material
