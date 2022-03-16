@@ -10,7 +10,6 @@ Robby the Robot in Goland
   - [Motivation](#motivation)
   - [Introduction](#introduction)
   - [End Goal](#end-goal)
-  - [Approach](#approach)
   - [Reference Material](#reference-material)
 
 ## Artifacts
@@ -36,10 +35,6 @@ The end goal of this exercise is
 - to **gain experience with architecture** in the context of a golang implementation
 - implement an **event-driven and -sourced application in golang**
 - maybe end up with **a fun game**
-
-## Approach
-
-- Since we have no experience with golang to speak of at the start of this project, we will just play around in the [sandbox] first, before we try to make an actual first version of the game.
 
 ## Reference Material
 
